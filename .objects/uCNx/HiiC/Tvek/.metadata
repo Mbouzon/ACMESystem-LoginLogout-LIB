@@ -1,0 +1,12 @@
+﻿{
+  "Id": "TvekDdYs6UCgw4Gejp_RyA",
+  "Reference": "msYiVmUNk0SpuP3AefjzGw/TvekDdYs6UCgw4Gejp_RyA",
+  "ParentRef": "msYiVmUNk0SpuP3AefjzGw/HiiCoJRXmkaO4tV1zn8WDw",
+  "Name": "IE: ACME System 1 - Dashboard",
+  "Type": "Screen",
+  "Created": "2020-10-14T05:51:51.7160905Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-10-14T05:51:51.7160905Z"
+}

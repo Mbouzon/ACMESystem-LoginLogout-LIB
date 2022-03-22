@@ -1,0 +1,12 @@
+﻿{
+  "Id": "pgfrWwvEL02SFK73i4fMqQ",
+  "Reference": "msYiVmUNk0SpuP3AefjzGw/pgfrWwvEL02SFK73i4fMqQ",
+  "ParentRef": "msYiVmUNk0SpuP3AefjzGw/HiiCoJRXmkaO4tV1zn8WDw",
+  "Name": "IE: ACME System 1 - Log In",
+  "Type": "Screen",
+  "Created": "2020-10-14T05:51:51.1240636Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-10-14T05:51:51.1240636Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "o5TKaO8f0EyYL23GHOSMDQ",
+  "Reference": "msYiVmUNk0SpuP3AefjzGw/o5TKaO8f0EyYL23GHOSMDQ",
+  "ParentRef": "msYiVmUNk0SpuP3AefjzGw/HiiCoJRXmkaO4tV1zn8WDw",
+  "Name": "IE: ACME System 1 - Work Items",
+  "Type": "Screen",
+  "Created": "2020-10-14T05:51:51.9340633Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-10-14T05:51:51.9340633Z"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Id": "uCNxHuzqv02-39NVW05UFA",
+  "Reference": "msYiVmUNk0SpuP3AefjzGw/uCNxHuzqv02-39NVW05UFA",
+  "Name": "IE: ACME System 1 - Log In app",
+  "Type": "App",
+  "Created": "2020-10-14T05:51:51.0330985Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-10-14T05:51:51.0330985Z"
+}
